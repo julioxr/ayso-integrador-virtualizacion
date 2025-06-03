@@ -58,7 +58,7 @@ El objetivo de este trabajo es comprender y aplicar el concepto de virtualizaci√
 3. Ejecutar el siguiente comando:
 
    ```bash
-   python script_notas.py
+   python3 script_notas.py
 
 ## Recursos utilizados
 - [VirtualBox](https://www.virtualbox.org/)
