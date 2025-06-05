@@ -48,6 +48,7 @@ El objetivo de este trabajo es comprender y aplicar el concepto de virtualizaci�
 - integrador_final.pdf – Informe técnico del trabajo realizado.
 - script_notas.py – Código fuente del programa en Python.
 - README.md – Este archivo.
+- Link a video: [Trabajo Práctico Integrador - AySO](https://www.youtube.com/watch?v=2p4KHzjzH5o)
 
 ---
 
